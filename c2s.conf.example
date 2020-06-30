@@ -1,0 +1,9 @@
+[carddav]
+url=
+user=
+pass=
+
+[sipgate]
+api=https://api.sipgate.com/v2
+user=
+pass=
